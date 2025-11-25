@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ResultFlow.Application/ResultFlow.Application.csproj" />
+  <Project Path="ResultFlow.Infra/ResultFlow.Infra.csproj" />
+  <Project Path="ResultFlow.Service/ResultFlow.Core.csproj" />
+</Solution>
